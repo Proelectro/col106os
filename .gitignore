@@ -1,1 +1,4 @@
 venv
+.git
+pritesh.md
+__pycache__
